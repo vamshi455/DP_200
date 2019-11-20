@@ -1,8 +1,6 @@
 # DP_200
 Resources needed for clearing DP-200
 
-Sno	Topics	Links	Youtube
-
 <table class="tg">
   <tr>
     <th class="tg-0lax">Sno</th>
