@@ -219,4 +219,12 @@ Resources needed for clearing DP-200
     <td class="tg-0lax"> </td>
     <td class="tg-0lax"> </td>
   </tr>
+    <tr>
+    <td class="tg-0lax">31</td>
+    <td class="tg-0lax">SQL DB
+</td>
+    <td class="tg-0lax">Granting database access to SQL Database and SQL Data Warehouse</td>
+    <td class="tg-0lax">https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-logins</td>
+    <td class="tg-0lax"> </td>
+  </tr>
 </table>
